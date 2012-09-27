@@ -6,6 +6,12 @@ import android.graphics.drawable.BitmapDrawable;
 import android.os.Bundle;
 import android.view.Menu;
 
+/**
+ * MainAcitivy for the MultiTouch controller
+ * @author 2dwarfs.com
+ *
+ */
+
 public class MainActivity extends Activity {
 
     @Override

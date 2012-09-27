@@ -13,6 +13,12 @@ import com.twodwarfs.multitouchcontroller.MultiTouchController.MultiTouchObjectC
 import com.twodwarfs.multitouchcontroller.MultiTouchController.PointInfo;
 import com.twodwarfs.multitouchcontroller.MultiTouchController.PositionAndScale;
 
+/**
+ * Canvas View for the MultiTouch controller
+ * @author 2dwarfs.com
+ *
+ */
+
 public class MultiTouchView extends View implements MultiTouchObjectCanvas<PinchWidget> {
 
 	private static final int UI_MODE_ROTATE = 1;

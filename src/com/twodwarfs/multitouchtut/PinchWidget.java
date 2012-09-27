@@ -10,6 +10,12 @@ import android.util.DisplayMetrics;
 
 import com.twodwarfs.multitouchcontroller.MultiTouchController.PositionAndScale;
 
+/**
+ * PinchWidget for the MultiTouch controller
+ * @author 2dwarfs.com
+ *
+ */
+
 public class PinchWidget {
 
 	private Bitmap mImage;
